@@ -1,3 +1,5 @@
 venv
 .env
 notebook
+STACKMENTOR.egg-info
+bot/__pycache__/data_converter.cpython-310.pyc
