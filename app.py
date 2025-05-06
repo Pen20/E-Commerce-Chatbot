@@ -44,4 +44,4 @@ def chat():
 
 if __name__ == '__main__':
     # Run the Flask app (debug=True for development only)
-    app.run(debug=True)
+    app.run(host="0.0.0.0")
