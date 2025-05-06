@@ -1,7 +1,0 @@
-README.md
-setup.py
-STACKMENTOR.egg-info/PKG-INFO
-STACKMENTOR.egg-info/SOURCES.txt
-STACKMENTOR.egg-info/dependency_links.txt
-STACKMENTOR.egg-info/requires.txt
-STACKMENTOR.egg-info/top_level.txt
